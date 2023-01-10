@@ -61,6 +61,11 @@ a {
   font-size: 1.6rem;
 }
 
+/* made by ville */
+.tm-section-title-2 {
+  font-size: 1.3rem;
+}
+
 .parallax-window {
   min-height: 662px;
   background: transparent;
